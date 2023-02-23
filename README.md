@@ -1,4 +1,4 @@
-![alt text](./images/top.svg)
+![alt text](top.svg)
 
 Hi there! I am Enes. I am a Full Stack Developer. I don’t like to define myself by the work I’ve done. I define myself by the work I want to do. Skills can be taught, personality is inherent. I prefer to keep learning, continue challenging myself, and do interesting things that matter.
 
@@ -27,5 +27,5 @@ Hi there! I am Enes. I am a Full Stack Developer. I don’t like to define mysel
 	<a href="https://twitter.com/enoxie2k23"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
 
-![alt text](./images/bottom.svg)
+![alt text](bottom.svg)
 
