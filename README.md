@@ -1,48 +1,31 @@
-<img src="https://i.ibb.co/zskJpqw/Git-Hub-Logo-White.png" alt="github-profile" border="0">
-<!-- Create a tabular data for blog posts-->
+![alt text](./images/top.svg)
 
-### ✔️ I'm currently learning
-- JavaScript
-- React
-
-### 💻 I'm working on
-- React Booking App.
-- E-Commerce Website
-
-### 🌱 Goals for 2022
-- Complete #100DaysOfCode challenge.
-- Build 30+ projects.
-- Contribute to Open Source.
-
-### 💭 Ask me about
-- Development 👨‍💻
-- Games 🎮
-- Design 🎨
-- and anything...
-<!-- 
-### 🌴 Fun facts
-- Trying to explore the mysteries.
-- Congratualtions on making through the shell.-->
-
-### 🗣 Languages and Tools
-
-<p align="left"> 
-<a><img src="https://i.ibb.co/D53BSvR/c-sharp.png" alt="c-sharp" width="40" height="40" border="0"></a> &emsp;
-<a><img src="https://i.ibb.co/VHNGCqR/pngwing-com.png" alt="c" width="40" height="40"/> </a>  &emsp;
-<a><img src="https://i.ibb.co/nkzzCZX/CSS3-logo-and-wordmark-svg.png" alt="CSS3-logo-and-wordmark-svg" width="40" height="40" border="0"></a> &emsp;
-<a><img src="https://i.ibb.co/T8BkBTP/Sql-data-base-with-logo.png" alt="Sql-data-base-with-logo" width="40" height="40" border="0"></a> &emsp;
-<a><img src="https://i.ibb.co/J5Z3ZWk/PHP-logo-svg.png" alt="PHP-logo-svg" width="40" height="40" border="0"></a> &emsp;
-<a><img src="https://i.ibb.co/tBNLL3F/Unofficial-Java-Script-logo-2-svg.png" alt="Unofficial-Java-Script-logo-2-svg" width="40" height="40" border="0"></a> &emsp;
-<a><img src="https://i.ibb.co/b6zvxmx/300px-Java-Logo-svg.png" alt="300px-Java-Logo-svg" width="40" height="40" border="0"></a> &emsp;
-<a><img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="c" width="40" height="40"/> </a> &emsp;
-<a><img src="https://i.ibb.co/zSkMQFs/Python-logo-and-wordmark-svg.png" alt="Python-logo-and-wordmark-svg" width="80" height="40" border="0"></a>
-</p>
+Hi there! I am Enes. I am a Full Stack Developer. I don’t like to define myself by the work I’ve done. I define myself by the work I want to do. Skills can be taught, personality is inherent. I prefer to keep learning, continue challenging myself, and do interesting things that matter.
 
 
+- 🔭 I’m currently working on web development
+- 🌱 I’m currently learning JavaScript
+- 👯 I’m looking to collaborate on React App
+- 🤔 I'm looking for a job in a company where I can improve myself
+- 💬 Ask me about anything
+- 📫 How to reach me: admin@enesbilgi.com
+
+-->
+
+⚡ Fun fact:
+- 👯 I’m looking to collaborate on projects that are using JavaScript.
+- 🌱 I’m currently learning JavaScript.
+- :pencil2: I am also working on an entrepreneurship in the field of eCommerce.
+- :musical_note: I love to hear country music.
 
 
-
-<h2 align="center">Feel free to Connect 👥 with me on</h2>
+### Let's Connect :coffee:
 <p align="center">
-<a href="https://linkedin.com/in/enesbilgi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rutvikjoshi" height="30" width="40" /></a>
+	<a href="https://github.com/enoxie"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/enesbilgi/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/enoxie2k23"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://twitter.com/enoxie2k23"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
+
+![alt text](./images/bottom.svg)
+
