@@ -23,7 +23,7 @@ Hi there! I am Enes. I am a Full Stack Developer. I don’t like to define mysel
 	<a href="https://github.com/enoxie"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/enesbilgi/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/enoxie2k23"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/enoxie2k23"><img src="https://user-images.githubusercontent.com/45846844/221048176-04b39a3e-f2a7-43b8-96b3-4892604834ae.png" alt="Twitter"/></a>
+	<a href="https://twitter.com/enoxie2k23"><img src="https://user-images.githubusercontent.com/45846844/221048523-f4dd932e-bc03-4c64-9953-ce43a6ede752.png" alt="Twitter"/></a>
 </p>
 
 ![alt text](bottom.svg)
