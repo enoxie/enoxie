@@ -10,7 +10,6 @@ Hi there! I am Enes. I am a Full Stack Developer. I don’t like to define mysel
 - 💬 Ask me about anything
 - 📫 How to reach me: admin@enesbilgi.com
 
--->
 
 ⚡ Fun fact:
 - 👯 I’m looking to collaborate on projects that are using JavaScript.
@@ -24,7 +23,7 @@ Hi there! I am Enes. I am a Full Stack Developer. I don’t like to define mysel
 	<a href="https://github.com/enoxie"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/enesbilgi/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/enoxie2k23"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/enoxie2k23"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+	<a href="https://twitter.com/enoxie2k23"><img src="https://icons8.com/icon/eeQY_dRSUIMV/twitter-circled" alt="Twitter"/></a>
 </p>
 
 ![alt text](bottom.svg)
