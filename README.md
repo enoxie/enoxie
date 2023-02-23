@@ -1,4 +1,4 @@
-<img src="http://enesbilgi.com/logo/github.png" alt="github-profile" border="0">
+<img src="https://i.ibb.co/zskJpqw/Git-Hub-Logo-White.png" alt="github-profile" border="0">
 <!-- Create a tabular data for blog posts-->
 
 ### ✔️ I'm currently learning
