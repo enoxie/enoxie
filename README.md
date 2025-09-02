@@ -4,7 +4,7 @@ Hi there! I am Enes. I am a Software Developer. I don’t like to define myself 
 
 
 - 🔭 I’m currently working as a software developer at an automation company, developing desktop HMI software using C# and working on the motion control with PLC.
-- 🌱 I’m currently learning Javascript and React Native.
+- 🌱 I’m currently learning React Native.
 - 👯  I’m looking to collaborate on React Native applications.
 - 💬 Ask me about anything
 - 📫 How to reach me: admin@enesbilgi.com
