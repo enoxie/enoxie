@@ -1,28 +1,49 @@
 ![alt text](top.svg)
 
-Hi there! I am Enes. I am a Software Developer. I don’t like to define myself by the work I’ve done. I define myself by the work I want to do. Skills can be taught, personality is inherent. I prefer to keep learning, continue challenging myself, and do interesting things that matter.
+<div align="center">
+  <h1>Hi there! I am Enes 👋</h1>
+  <h3>Senior Software Developer | .NET Ecosystem & Industrial Automation</h3>
+</div>
 
+<br/>
 
-- 🔭 I’m currently working as a software developer at an automation company, developing desktop HMI software using C# and working on the motion control with PLC.
-- 🌱 I’m currently learning flutter.
-- 👯  I’m looking to collaborate on flutter applications.
-- 💬 Ask me about anything
-- 📫 How to reach me: admin@enesbilgi.com
+> "I define myself not just by the code I write, but by the solutions I create. Passionate about bridging the gap between hardware and software."
 
+I am a software developer specialized in **C#** and **.NET technologies**. My core expertise lies in developing high-performance Desktop (HMI) applications, Motion Control systems, and scalable Backend architectures. Currently, I am expanding my stack with **React Native** to build cross-platform mobile solutions.
 
-⚡ Fun fact:
-- 👯 I’m looking to collaborate on projects that are using Javascript.
-- 🌱 I’m currently learning JavaScript.
-- :pencil2: I am also working on some projects in the field of entrepreneurship.
-- :musical_note: I love to playing piano.
+### 🔒 Important Note on My Activity
+> **Most of my professional projects are Enterprise-level and protected under NDA (Non-Disclosure Agreements).** Therefore, the source codes are private. My public activity here mostly consists of my side projects, tools, and learning experiments.
 
+---
 
-### Let's Connect :coffee:
+### 🛠 Tech Stack
+
+* **Backend & .NET Ecosystem:** C#, .NET 8, ASP.NET Core, Entity Framework Core, Node.js
+* **Frontend & Mobile:** React, React Native, TypeScript, JavaScript
+* **Data, Search & Caching:** MSSQL, PostgreSQL, MongoDB, Elasticsearch, Redis
+* **DevOps & Cloud Infrastructure:** Docker, Azure, AWS, CI/CD Pipelines
+
+---
+
+### 🔭 Current Focus
+- 🌱 Developing a **P2P Marketplace Architecture** focusing on secure trade logic.
+- 🚀 Deep diving into **React Native** for mobile application development.
+- ⚡ Creating custom **Automation Scripts** for data conversion and optimization.
+
+### ⚡ Fun Facts
+- 🎹 I love playing the piano to clear my mind.
+- 💡 I am actively working on entrepreneurial digital products.
+- ☕ I believe clean code is as important as a good cup of coffee.
+
+---
+
+### Let's Connect
 <p align="center">
 	<a href="https://github.com/enoxie"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/enesbilgi/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/enes.jsx"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+    <br>
+    <a href="mailto:admin@enesbilgi.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail" alt="Email"/></a>
 </p>
 
 ![alt text](bottom.svg)
-
